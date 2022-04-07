@@ -27,6 +27,8 @@
       repo: 'hongweihao.github.io',
       owner: 'hongweihao',
       admin: ["hongweihao"],
+      // proxy: "https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token",
+      proxy: "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token",
       distractionFreeMode: false
     };
     window.$docsify = {
@@ -69,7 +71,7 @@
             divEle.style = "width: " + main.clientWidth + "px; margin: 0 auto 20px;";
             domObj.appendTo(domObj.find(".content"), divEle);
             gitalk = new Gitalk(
-              Object.assign(gitalkConfig, { id: !label ? "home" : label })
+              Object.assign(gitalkConfig, { id: !label ? "home" : label})
             );
             gitalk.render("gitalk-container-" + label);
           });
