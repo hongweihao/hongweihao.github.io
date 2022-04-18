@@ -1,5 +1,5 @@
-- [:octocat: 首页](/README)
 - :memo: 目录
-   - 第1章：Test
-   
-       - [test](/md/test.md)
+   - 设计模式
+	   - 6 大设计原则
+		   - [单一职责原则](/md/design-pattern/6大设计原则/单一职责原则.md)
+	   - 创建型模式

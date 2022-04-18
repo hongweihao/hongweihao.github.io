@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md/design-pattern/6大设计原则/单一职责原则.md",
+            "file": "md/design-pattern/6大设计原则/未命名.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240
   },
   "right": {
     "id": "0929edf6c91dfdb6",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/design-pattern/6大设计原则/单一职责原则.md",
+                "file": "md/design-pattern/6大设计原则/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/design-pattern/6大设计原则/单一职责原则.md"
+                "file": "md/design-pattern/6大设计原则/未命名.md"
               }
             }
           }
@@ -99,9 +99,13 @@
   },
   "active": "c844a3fe8b8ed178",
   "lastOpenFiles": [
+    "md/design-pattern/6大设计原则/未命名.md",
     "md/design-pattern/6大设计原则/单一职责原则.md",
-    "md/test.md",
+    "_sidebar.md",
+    "README.md",
+    "_coverpage.md",
     "md/design-pattern/工厂模式.md",
+    "md/test.md",
     "assets/img/20220416135346.png",
     "assets/img/image-20220416133632701.png"
   ]
