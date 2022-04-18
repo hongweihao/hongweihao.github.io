@@ -1,0 +1,10 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "assets/img"
+}
