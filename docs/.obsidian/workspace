@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md/design-pattern/6大设计原则/未命名.md",
+            "file": "md/design-pattern/6大设计原则/单一职责原则.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/design-pattern/6大设计原则/未命名.md",
+                "file": "md/design-pattern/6大设计原则/单一职责原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/design-pattern/6大设计原则/未命名.md"
+                "file": "md/design-pattern/6大设计原则/单一职责原则.md"
               }
             }
           }
@@ -99,8 +99,8 @@
   },
   "active": "c844a3fe8b8ed178",
   "lastOpenFiles": [
-    "md/design-pattern/6大设计原则/未命名.md",
     "md/design-pattern/6大设计原则/单一职责原则.md",
+    "md/design-pattern/6大设计原则/开闭原则.md",
     "_sidebar.md",
     "README.md",
     "_coverpage.md",
