@@ -3,4 +3,5 @@
 	   - 6 大设计原则
 		   - [单一职责原则](/md/design-pattern/6大设计原则/单一职责原则.md)
 		   - [开闭原则](/md/design-pattern/6大设计原则/开闭原则.md)
+		   - [里氏替换原则](/md/design-pattern/6大设计原则/里氏替换原则.md)
 	   - 创建型模式
