@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240
+    "width": 240,
+    "collapsed": true
   },
   "right": {
     "id": "0929edf6c91dfdb6",
@@ -100,8 +101,8 @@
   "active": "cc1ac0eba19eec99",
   "lastOpenFiles": [
     "md/design-pattern/6大设计原则/里氏替换原则.md",
-    "md/design-pattern/6大设计原则/开闭原则.md",
     "md/design-pattern/6大设计原则/单一职责原则.md",
+    "md/design-pattern/6大设计原则/开闭原则.md",
     "_sidebar.md",
     "_media/logo.png",
     "md/design-pattern/工厂模式.md",
