@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "_sidebar.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -101,8 +101,8 @@
   "lastOpenFiles": [
     "_sidebar.md",
     "md/design-pattern/6大设计原则/里氏替换原则.md",
-    "md/design-pattern/6大设计原则/单一职责原则.md",
     "md/design-pattern/6大设计原则/开闭原则.md",
+    "md/design-pattern/6大设计原则/单一职责原则.md",
     "_media/logo.png",
     "md/design-pattern/工厂模式.md",
     "README.md",
