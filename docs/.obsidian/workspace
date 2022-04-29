@@ -101,13 +101,13 @@
   "lastOpenFiles": [
     "_sidebar.md",
     "md/design-pattern/6大设计原则/迪米特法则原则.md",
+    "_coverpage.md",
     "md/design-pattern/6大设计原则/里氏替换原则.md",
     "md/design-pattern/6大设计原则/迪米特法则原则2.md",
     "md/design-pattern/6大设计原则/开闭原则.md",
     "md/design-pattern/6大设计原则/单一职责原则.md",
     "_media/logo.png",
     "md/design-pattern/工厂模式.md",
-    "README.md",
-    "_coverpage.md"
+    "README.md"
   ]
 }
