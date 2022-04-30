@@ -1,2 +1,5 @@
 doc/.obsidian
 doc/.obsidian/*
+/.obsidian
+/.obsidian/*
+*/.obsidian/*
