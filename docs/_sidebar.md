@@ -8,3 +8,6 @@
 		   - [接口隔离原则](/md/design-pattern/6大设计原则/接口隔离原则.md)
 		   - [依赖倒置原则](/md/design-pattern/6大设计原则/依赖倒置原则.md)
 	   - 创建型模式
+		   -  [简单工厂](/md/design-pattern/简单工厂.md)
+		   - [工厂方法](/md/design-pattern/工厂方法.md)
+		   - [抽象工厂](/md/design-pattern/抽象工厂.md)
