@@ -12,3 +12,4 @@
 		   - [工厂方法](/md/design-pattern/工厂方法.md)
 		   - [抽象工厂](/md/design-pattern/抽象工厂.md)
 		   - [建造者模式](/md/design-pattern/建造者模式.md)
+		   - [原型模式](/md/design-pattern/原型模式.md)
