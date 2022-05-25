@@ -2,5 +2,5 @@
 
 # hongweihao
 
-[GitHub](<https://github.com/hongweihao/hongweihao.github.io>)
+[GitHub](<https://github.com/hongweihao/design-pattern>)
 [开始阅读](README.md)
