@@ -7,8 +7,18 @@
 		   - [迪米特法则原则](/md/design-pattern/6大设计原则/迪米特法则原则.md)
 		   - [接口隔离原则](/md/design-pattern/6大设计原则/接口隔离原则.md)
 		   - [依赖倒置原则](/md/design-pattern/6大设计原则/依赖倒置原则.md)
+
+	   - 常用模式
+		   - 工厂模式
+			   - [简单工厂](/md/design-pattern/简单工厂.md)
+			   - [工厂方法](/md/design-pattern/工厂方法.md)
+			   - [抽象工厂](/md/design-pattern/抽象工厂.md)
+		   - [模板方法模式](/md/design-pattern/模板方法模式.md)
+		   - 策略模式
+		   - 观察者模式
+
 	   - 创建型模式
-		   -  [简单工厂](/md/design-pattern/简单工厂.md)
+		   - [简单工厂](/md/design-pattern/简单工厂.md)
 		   - [工厂方法](/md/design-pattern/工厂方法.md)
 		   - [抽象工厂](/md/design-pattern/抽象工厂.md)
 		   - [建造者模式](/md/design-pattern/建造者模式.md)
