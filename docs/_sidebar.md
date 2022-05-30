@@ -14,7 +14,7 @@
 			   - [工厂方法](/md/design-pattern/工厂方法.md)
 			   - [抽象工厂](/md/design-pattern/抽象工厂.md)
 		   - [模板方法模式](/md/design-pattern/模板方法模式.md)
-		   - 策略模式
+		   - [策略模式](/md/design-pattern/策略模式.md)
 		   - 观察者模式
 
 	   - 创建型模式
