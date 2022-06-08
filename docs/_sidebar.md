@@ -32,7 +32,7 @@
 	   - ❌中介者模式
 	   - ❌备忘录模式
 	   - [观察者模式](/md/design-pattern/观察者模式.md)
-	   - ❌状态模式
+	   - [状态模式](/md/design-pattern/状态模式.md)
 	   - [策略模式](/md/design-pattern/策略模式.md)
 	   - [模板方法模式](/md/design-pattern/模板方法模式.md)
 	   - ❌访问者模式
